@@ -786,6 +786,15 @@ section .container {
   padding: 2px 15px;
 }
 
+.certificate-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50; /* Green background */
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
 .portfolio #portfolio-flters li {
   cursor: pointer;
   display: inline-block;
